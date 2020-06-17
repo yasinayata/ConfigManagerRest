@@ -1,0 +1,18 @@
+<ServiceConfig>
+	<Settings>
+		<parameter name="TraceLevel"	value="100" />
+		<parameter name="TraceProcess"	value="-Start-" />
+		<parameter name="TracePath"		value="" />
+		<parameter name="TraceFileName"	value="ConfigManagerRest" />
+
+		<parameter name="RaiseEventToEveryone"	value="1" />
+		<parameter name="MultiThreadOperation"	value="1"/>
+
+		<!-- SQL connection string can be [clear text or Encrypted] -->
+		<parameter name="SqlConnectionString"	value="Data Source=YAYATA\SQLEXPRESS;Initial Catalog=ConfigManager;User Id=configuser;Password=1234asdf;MultipleActiveResultSets=true;" />
+
+		<parameter name="DebugMode"		value="1"/>
+		<parameter name="ServiceId"		value="E71841EB-FD19-4E78-B79A-8B293F27ADE3"/>
+		<parameter name="ServiceName"	value="ConfigManagerService"/>
+	</Settings>
+</ServiceConfig>

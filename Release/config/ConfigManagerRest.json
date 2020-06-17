@@ -1,0 +1,15 @@
+{
+   "TraceLevel":"100",
+   "TraceProcess":"-Start-Config-",
+   "TracePath":"",
+   "TraceFileName":"ConfigManagerRest",
+   "RaiseEventToEveryone":"1",
+   "MultiThreadOperation":"1",   
+   
+   "SqlConnectionString":"Data Source=YAYATA\\SQLEXPRESS;Initial Catalog=ConfigManager;User Id=configuser;Password=1234asdf;MultipleActiveResultSets=true;",
+   "SqlConnectionString2":"me3SRRas9QG0Za0I0TkutQ5EPaRgKou4jdiGOBoZ8xiP5oL9XTs47bT2XYFQQBwTLrThkjJVKxvhkq3i78KyU1TB0KMSw15Q4PMw8Rp27ssV2Fjjuwq0mngz6eMPbs5HZJbrDDrVDVSNJgn7fdeSNZxiF5zyXoAlxfR1Jk5SqJfKlLE7JdJkPw==",
+   
+   "DebugMode":"1",
+   "ServiceId":"E71841EB-FD19-4E78-B79A-8B293F27ADE3",
+   "ServiceName":"ConfigManagerService"
+}
